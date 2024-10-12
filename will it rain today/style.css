@@ -1,0 +1,100 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    flex: 1;
+}
+
+#container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    min-width: 80vw;
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+h1 {
+    font-size: min(2.9em, 9vw);
+    font-weight: 400;
+}
+
+#result {
+    font-size: min(9em, 40vw);
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+}
+
+
+.loading {
+    animation: loadingAnimation 0.75s ease-in-out 0s infinite alternate forwards;
+
+}
+
+@keyframes loadingAnimation {
+    0% {
+        opacity: 50%;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+#details {
+    font-size: min(1.75em, 4vw);
+}
+
+
+footer {
+    min-height: 50px;
+    padding: 5px;
+}
+
+small {
+    display: block;
+    font-size: x-small;
+}
+
+a {
+    color: #4b4b4b;
+}
+
+a:visited {
+    color: #4b4b4b;
+}
+
+a:hover {
+    color: #004ea8;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: white;
+        background-color: #2B2A33;
+    }
+
+    a {
+        color: #bbbbbb;
+    }
+
+    a:visited {
+        color: #bbbbbb;
+    }
+
+    a:hover {
+        color: #6dc3ff;
+    }
+}
