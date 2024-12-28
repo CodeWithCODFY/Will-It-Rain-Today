@@ -43,7 +43,7 @@ Project is: _complete_
 
 
 ## Acknowledgements
-- Many thanks to... Dountask
+- Many thanks to Dountask
 
 
 ## Contact
