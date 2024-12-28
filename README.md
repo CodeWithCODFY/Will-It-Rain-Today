@@ -47,7 +47,7 @@ Project is: _complete_
 
 
 ## Contact
-Created by [@@CodeWithCODFY](https://github.com/CodeWithCODFY) - feel free to contact me!
+Created by [@CodeWithCODFY](https://github.com/CodeWithCODFY) - feel free to contact me!
 
 
 
