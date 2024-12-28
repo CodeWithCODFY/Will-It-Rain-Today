@@ -30,9 +30,7 @@
 
 
 ## Screenshots
-![jj](![image](https://github.com/user-attachments/assets/42762c1e-d2b5-4828-bd9b-19f8ef6f21c9)
-)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![screenshot](./img/screenshots/screenshot)
 
 
 ## Setup
