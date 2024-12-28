@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Feature](#feature)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -30,7 +30,8 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![jj](![image](https://github.com/user-attachments/assets/42762c1e-d2b5-4828-bd9b-19f8ef6f21c9)
+)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -54,5 +55,5 @@ Created by [@@CodeWithCODFY](https://github.com/CodeWithCODFY) - feel free to co
 
 
 ## License
-This project is open source and available under the [... License]().
+This project is open source and available under the CC BY 4.0.
 
