@@ -30,7 +30,7 @@
 
 
 ## Screenshots
-![screenshot](./img/screenshots/screenshot)
+![screenshot](./img/screenshots/screenshot.png)
 
 
 ## Setup
