@@ -1,3 +1,8 @@
+# Is It Raining? - rain forcasting website
+
+A simple website made with HTML, CSS Javascript to help see rain forcasting.
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
