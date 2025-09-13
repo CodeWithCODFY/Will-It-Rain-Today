@@ -30,12 +30,12 @@
 
 
 ## Screenshots
-![screenshot](./img/screenshots/screenshot)
+
 
 
 ## Setup
 Just accept the permission
-And you'r all set.
+And you're all set.
 
 
 ## Project Status
