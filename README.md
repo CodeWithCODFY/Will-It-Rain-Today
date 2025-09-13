@@ -8,7 +8,6 @@
 * [Feature](#feature)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -32,7 +31,6 @@
 ## Screenshots
 
 
-
 ## Setup
 Just accept the permission
 And you're all set.
@@ -44,11 +42,11 @@ Project is: _complete_
 
 
 ## Acknowledgements
-- Many thanks to... Dountask
+- Many thanks to Dountask
 
 
 ## Contact
-Created by [@@CodeWithCODFY](https://github.com/CodeWithCODFY) - feel free to contact me!
+Created by [@CodeWithCODFY](https://github.com/CodeWithCODFY) - feel free to contact me!
 
 
 
